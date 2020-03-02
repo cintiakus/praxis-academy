@@ -10,7 +10,6 @@
 ## 2.Cascading Style Sheets (CSS) adalah bahasa stylesheet yang digunakan untuk menggambarkan penyajian dokumen yang ditulis dalam HTML atau XML (termasuk dialek XML seperti SVG, MathML atau XHTML).
 ## JavaScript Yaitu bahasa pemrograman dinamis penuh yang ketika di terapkan pada dokumen HTML,dapat memberikan interaktivitas disitus web atau dapat menyempurnakan tampilan dan sistem halaman web.
 ## Ekosistem JavaScript: ES, JS, Node.js, Browser, HTML, CSS.
-
-##Penjelasan tentang isi repo: Hari ini mempelajari tentang JavaScript dan Program Structure
+## Penjelasan tentang isi repo: Hari ini mempelajari tentang JavaScript dan Program Structure
 
 
