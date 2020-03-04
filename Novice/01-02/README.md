@@ -1,4 +1,4 @@
-## Minggu 02
+## Minggu 01
 ## Hari ke:2
 ## Oleh: Cintia Kus Herawati 
 ## Tanggal:03 Maret 2020
