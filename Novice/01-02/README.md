@@ -67,8 +67,7 @@ the empty string ("")
 
 **for...of statement-->The for ... of statement menciptakan loop Iterating pada objek yang dapat di-iterable (termasuk Array, Map, Set, objek argumen dan sebagainya), menggunakan pengait iterasi kustom dengan pernyataan yang akan dieksekusi untuk nilai setiap properti yang berbeda.**
 
-
-
+## Penjelasan tentang isi repo: hari ini mempelajari Materi di MDN tentang pengendali alur dan Materi di MDN tentang iterasi dan looping.
 
 
 
