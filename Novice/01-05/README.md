@@ -9,7 +9,7 @@
 **1. Obyek dan Array**
 
 
--Objek adalah kumpulan dari properti, dan properti adalah sepasang hubungan antara nama (atau key) dan value. Nilai properti bisa berupa fungsi, Dalam hal ini properti itu disebut method. Di JavaScript, objek adalah entitas yang mandiri dengan properti dan tipe. 
+**-Objek adalah kumpulan dari properti, dan properti adalah sepasang hubungan antara nama (atau key) dan value. Nilai properti bisa berupa fungsi, Dalam hal ini properti itu disebut method. Di JavaScript, objek adalah entitas yang mandiri dengan properti dan tipe. **
 
 **-Array, di sisi lain, biasanya mengandung jumlah yang bervariasi dari nilai-nilai yang identik secara konseptual dan menggunakan angka (mulai dari 0) sebagai nama properti mereka. Ada beberapa properti bernama dalam array, seperti length dan sejumlah method.**
 
@@ -22,7 +22,7 @@
 **-Array.from**
 
 **-Iterables**
-**Iterable Objek adalah generalisasi dari array. Itu adalah konsep yang memungkinkan kita untuk membuat objek apa pun dapat digunakan dalam loop for..of.Objek yang dapat digunakan dalam for..of disebut iterable.**
+**Objek adalah generalisasi dari array. Itu adalah konsep yang memungkinkan kita untuk membuat objek apa pun dapat digunakan dalam loop for..of.Objek yang dapat digunakan dalam for..of disebut iterable.**
 **Secara teknis, iterables harus mengimplementasikan metode yang bernama Symbol.iterator.**
 **Metode Symbol.iterator dipanggil secara otomatis oleh for..of, tetapi kita juga dapat melakukannya secara langsung.
 Iterables bawaan seperti string atau array, juga mengimplementasikan Symbol.iterator.**
