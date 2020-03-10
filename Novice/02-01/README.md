@@ -12,9 +12,9 @@
 
 **Bahasa yang mendukung pemrograman berorientasi objek (OOP) biasanya menggunakan pewarisan untuk penggunaan kembali dan perpanjangan kode dalam bentuk kelas atau prototipe. Mereka yang menggunakan kelas mendukung dua konsep utama:**
 
-**Class- definisi untuk format data dan prosedur yang tersedia untuk jenis atau kelas objek tertentu; mungkin juga berisi data dan prosedur (dikenal sebagai metode kelas) sendiri, mis. kelas berisi data anggota dan fungsi anggota
+**Class- definisi untuk format data dan prosedur yang tersedia untuk jenis atau kelas objek tertentu; mungkin juga berisi data dan prosedur (dikenal sebagai metode kelas) sendiri, mis. kelas berisi data anggota dan fungsi anggota.**
 
-Objek - contoh kelas**
+**Objek- contoh kelas**
 
 **Pemrograman berbasis prototipe adalah gaya pemrograman berorientasi objek di mana perilaku menggunakan kembali (dikenal sebagai warisan) dilakukan melalui proses menggunakan kembali objek yang ada melalui delegasi yang berfungsi sebagai prototipe. Model ini juga dapat dikenal sebagai pemrograman prototipe, berorientasi prototipe, tanpa kelas, atau berbasis instance. Delegasi adalah fitur bahasa yang mendukung pemrograman berbasis prototipe.**
 
