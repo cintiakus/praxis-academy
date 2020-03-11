@@ -20,5 +20,5 @@
 
 **Kelas Obyek mewakili salah satu tipe data JavaScript. Ini digunakan untuk menyimpan berbagai koleksi kunci dan entitas yang lebih kompleks. Objek dapat dibuat menggunakan Object () constructor atau sintaksis objek / sintaksal objek.**
 
-
+#Isi Repositori :Paradigma Pemrograman di JavaScript: OOP
 
