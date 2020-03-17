@@ -1,0 +1,26 @@
+// // assume getData to be an API call
+// console.log("Getting Data1");
+// var data1 = getData('123');
+// console.log("Data is:", data1);
+
+// console.log("Getting Data2");
+// var data2 = getData('456');
+// console.log("Data is:", data2);
+
+// var sum = 1 + 2;
+// console.log("sum is:", sum);
+
+// // Contoh 2
+
+console.log("Getting Data1");
+getData('123', function(data1) {
+  console.log("Data is:", data1);
+});
+
+console.log("Getting Data2");
+getData('456', function(data1) {
+  console.log("Data is:", data1);
+});
+
+var sum = 1 + 2;
+console.log("sum is:", sum);
