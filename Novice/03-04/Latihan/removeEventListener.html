@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Latihan 4  removeEventListener</title>
+
+    </head>
+    <body>
+        <button onclick=foo>Klik Disini</button>
+
+
+
+        <script>
+
+        var btn = document.querySelector('button');
+        btn.addEventListener('click', foo);
+
+        function foo() {
+        alert ('hayyy'); //mucul alert hayyy
+        }
+            btn.removeEventListener('click',foo);
+        </script>
+    </body>
+</html>
