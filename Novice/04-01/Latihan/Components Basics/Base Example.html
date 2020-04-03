@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Latihan Base Example</title>
+        <script src="https://unpkg.com/vue"></script>
+    </head>
+
+    <body>
+
+        <div id="components-demo">
+            <button-counter></button-counter>
+          </div>
+
+        <script>
+            // Define a new component called button-counter
+            Vue.component('button-counter', {
+            data: function () {
+            return {
+            count: 0
+        }
+        },
+            template: '<button v-on:click="count++">You clicked me {{ count }} times.</button>'
+        })
+        </script>
+
+        <script>
+
+        new Vue({ el: '#components-demo' })
+
+        </script>
+    </body>
+</html>
