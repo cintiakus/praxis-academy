@@ -11,7 +11,8 @@ Tanggal: Maret 2020
 **Reusability and Compositions**
 Menggunakan komponen, kita dapat mengintegrasikan dan menggabungkan fungsionalitas FindFile ke dalam FileManager saat runtime. Kami menulis kode dalam komponen FileManager untuk memuat, mengaktifkan, dan mengakses komponen FindFile. Integrasi aktual antara FileManager dan FindFile.Terdiri dari :
 
--Mixins(Basics,Option Merging,Global Mixin,Custom Option Merge Strategies)
+-Mixins
+-->Mixin adalah cara yang fleksibel untuk mendistribusikan fungsionalitas yang dapat digunakan kembali untuk komponen Vue. Objek mixin dapat berisi opsi komponen apa saja. Ketika suatu komponen menggunakan mixin, semua opsi dalam mixin akan "dicampur" ke dalam opsi komponen itu sendiri.(Basics,Option Merging,Global Mixin,Custom Option Merge Strategies)
 
 -Custom Directives(Intro,Hook Functions,Directive Hook Arguments(Dynamic Directive Arguments),Function Shorthand,Object Literals)
 
